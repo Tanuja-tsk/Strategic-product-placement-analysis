@@ -40,8 +40,4 @@ The dashboard was published using Tableau and integrated into a Bootstrap-based 
 The project demonstrates how product placement, pricing strategy, promotions, and customer demographics directly affect sales performance. The insights can help businesses optimize product positioning and marketing strategies.
 
 
-* 🔥 A shorter version (for GitHub)
-* 🎓 A more academic version (for college submission)
-* 💼 A portfolio-style professional version
 
-Just tell me where you’re going to use it 😉
