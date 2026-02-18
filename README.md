@@ -23,12 +23,17 @@ The dataset was prepared before visualization by:
 
  Visualizations Created
 
-  Avg Sales Volume by Product Category by Product Position
-  Consumer Demographics vs  Sales Volume
-  Product Category vs Price 
-  Avg Sales Volume by Product Category by Season
-  Foot Traffic  by Avg Sales Volume
-  Promotion of Product Category on Price and Sales Volum
+  >Avg Sales Volume by Product Category by Product Position
+
+  >Consumer Demographics vs  Sales Volume
+
+  >Product Category vs Price
+
+  >Avg Sales Volume by Product Category by Season
+  
+  >Foot Traffic  by Avg Sales Volume
+  
+  >Promotion of Product Category on Price and Sales Volum
 
 A Tableau Story was created to present insights in a structured format.
 
